@@ -5,14 +5,14 @@
 > 本repo用来存储一些乐子  
 > 乐子可以有多种形式: 图片/文字/视频/语音/黑历史等等等  
 > 乐子可以具体落实在对某个人/某件事情  
-> 如果你想分享你拥有的乐子 请使用[PullRequest](https://qq52o.me/2503.html)功能  
+> 如果你想分享你拥有的乐子 请使用[**PullRequest**](https://github.com/TheRealKamisama/Funs#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8pullrequestpr)功能  
 > 如果这个存储库里的乐子被本人请求销毁 我将会**无条件**接受 望使用本库的用户明确  
 
 ## 如何使用PullRequest(PR)
 
 当然 首先你需要注册一个GitHub账号  
 网络上的[教程①](https://qq52o.me/2503.html)/[教程②](https://blog.csdn.net/wudalang_gd/article/details/81049576)  
-以及我做的一个[示范]()  
+以及我做的一个[示范](https://github.com/TheRealKamisama/Funs/pull/1)  
 我强烈建议 使用[GitHub Desktop](https://desktop.github.com/)来进行Clone和Push等操作  
 图形化界面比较友好
 
